@@ -1,0 +1,2 @@
+- Genesis hash : "f24db1d631b53dbc9bf65e5064ee4d54c06c5717"
+- Binary hash : "668fb84cd4eb0fcb50ce5b50fa76aa685adb2c3b"
